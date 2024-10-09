@@ -1,0 +1,8 @@
+{
+    "questions": [
+        {
+            "question": "Are you a brave person?",
+            "houses": ["G", "S"]
+        }
+    ]
+}
