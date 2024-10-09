@@ -2,11 +2,19 @@
     "questions": [
         {
             "question": "Are you a brave person?",
-            "fittingHouse": ["G"]
+            "fittingHouse": ["Gryffindor"]
         },
         {
             "question": "Would you describe yourself as being patient?",
-            "fittingHouse": ["H", "S"]
+            "fittingHouse": ["Hufflepuff", "Slytherin"]
+        },
+        {
+            "question": "q3",
+            "fittingHouse": ["Ravenclaw", "Slytherin"]
+        },
+        {
+            "question": "q4",
+            "fittingHouse": ["Hufflepuff"]
         }
     ]
 }
