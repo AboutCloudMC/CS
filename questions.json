@@ -1,0 +1,12 @@
+{
+    "questions": [
+        {
+            "question": "Are you a brave person?",
+            "fittingHouse": ["G"]
+        },
+        {
+            "question": "Would you describe yourself as being patient?",
+            "fittingHouse": ["H", "S"]
+        }
+    ]
+}

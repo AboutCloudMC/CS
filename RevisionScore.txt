@@ -1,1 +1,11 @@
-2024/08: 66.6666666666666608.10.2024: 33
+08.10.2024: 100
+08.10.2024 Oct: 66%
+08.10.2024 18: 100%
+08.10.2024 18:07: 33%
+08.10.2024 18:18: 66% (Please revise 
+08.10.2024 18:19: 66% (Please revise 
+08.10.2024 18:20: 33% (Please revise Memory and Storage and )
+08.10.2024 18:21: 0% (Please revise System architecture and Memory and Storage and Programming Fundementals)
+08.10.2024 18:24: 33% (Please revise Memory and Storage and Programming Fundementals)
+08.10.2024 18:25: 0% (Please revise System architecture, Memory and Storage and Programming Fundementals)
+08.10.2024 18:28: 100% 
