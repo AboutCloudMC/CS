@@ -1,26 +1,10 @@
-#3. Output The 2 x table
-#4. Output the 4 x table
-#5. Output the 12 x table
-#6. Output every number divisible by 3 from 0 - 1000
-#7. Output every number divisible by 5 from 0 - 1000
-#8. Output Fizz if a number is a multiple of 3 from 0 - 1000
-#9. Output buzz if a number is a multiple of 5 from 0 - 1000
-#10. Output FizzBuzz if the number is a multiple of 3 and 5 from 0 - 1000
-#11. Output the letters of a string
-#12. Output the vowels in a string
-#13. Count the number of vowels in a string
-#14. Output the number of each vowel in a string
+#8. Ask the user to enter their forename, take each character in the name and move the value of the character 2 places to the right - output the new name. i.e. "CAT" = "ECV"  (Look up ASCII and these functions chr() and ord()
+#9. Ask the user to enter the name the algorithm above has outputted and then return the original name to the user.
 
-a = int(input("Input the first number: "))
-b = int(input("Input the second number: "))
+name = input("Please enter your forename: ")
+nameDec = [] 
 
-i=0
-adiv = []
-while i <= a:
-    print(i)
-    if a%i == 0: adiv.append(i)
+for i in range(len(name)):
+    nameDec[i] = ord(name[i])
 
-i=0
-bdiv = []
-while i <= b:
-    if a%i == 0: adiv.append(i)
+print(nameDec)
